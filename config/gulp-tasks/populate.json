@@ -1,0 +1,7 @@
+{
+  "__parent": "./person.json"
+, "populate": {
+    "title": "Populate"
+    , "xhr_timeout": 10000
+  }
+}
