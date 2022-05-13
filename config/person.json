@@ -2,20 +2,20 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Shaibal"
+        , "last":   "Saha"
         , "full":   "@{./last} @{./first}"
       }
-    , "nick":   "Tom&acute;AS"
+    , "nick":   "Saha"
     , "abbr":   "tbaltrushaitis"
-    , "email":  "@{./abbr}@gmail.com"
+    , "email":  "@{./sahashaibal22}@gmail.com"
     , "url":    "http://bit.ly/tomascv"
     , "bio": {
-          "birth":        "October &apos;82"
-        , "citizenship":  "Ukrainian"
+          "birth":        "December &apos;96"
+        , "citizenship":  "Bangladeshi"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "Bangladesh"
+            , "city":     "Dhaka"
             , "full":     "@{./country}, @{./city}"
             , "lat":      50.436336
             , "lng":      30.488619
